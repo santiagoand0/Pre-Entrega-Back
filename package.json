@@ -1,0 +1,14 @@
+{
+  "name": "preentrega1",
+  "version": "1.0.0",
+  "description": "Primera Pre-Entrega proyecto Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "npm config set init-author-name \"Santiago Andrada\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
